@@ -1,0 +1,9 @@
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.csprojAssemblyReference.cache
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
+C:\Users\rogden\source\repos\ps-xunit\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
